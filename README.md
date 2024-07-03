@@ -14,24 +14,24 @@ This repository contains my solutions to all the SQL challenges on HackerRank, i
 | ------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ | ---------- |
 | 1      | [Revising the Select Query I](https://hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true) | [SQL](https://github.com/SuvadeepMukherjee/HackerRank-SQL-Challenges-Solutions/blob/main/Basic%20Select/Revising-The-Select-Query-1.sql) | [x]    | Easy       |
 | 2      | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?isFullScreen=true) | [SQL](https://github.com/SuvadeepMukherjee/HackerRank-SQL-Challenges-Solutions/blob/main/Basic%20Select/Revising-The-Select-Query-2.sql) | [x]    | Easy       |
-| 3      | [Question name]](link)                                       | [SQL](Github Solution)                                       | []     | Easy       |
-| 4      | [Question name]](link)                                       | [SQL](Github Solution)                                       | []     | Easy       |
-| 5      | [Question name]](link)                                       | [SQL](Github Solution)                                       | []     | Easy       |
-| 6      | [Question name]](link)                                       | [SQL](Github Solution)                                       | []     | Easy       |
-| 7      | [Question name]](link)                                       | [SQL](Github Solution)                                       | []     | Easy       |
-| 8      | [Question name]](link)                                       | [SQL](Github Solution)                                       | []     | Easy       |
-| 9      | [Question name]](link)                                       | [SQL](Github Solution)                                       | []     | Easy       |
-| 10     | [Question name]](link)                                       | [SQL](Github Solution)                                       | []     | Easy       |
-| 11     | [Question name]](link)                                       | [SQL](Github Solution)                                       | []     | Easy       |
-| 12     | [Question name]](link)                                       | [SQL](Github Solution)                                       | []     | Easy       |
-| 13     | [Question name]](link)                                       | [SQL](Github Solution)                                       | []     | Easy       |
-| 14     | [Question name]](link)                                       | [SQL](Github Solution)                                       | []     | Easy       |
-| 15     | [Question name]](link)                                       | [SQL](Github Solution)                                       | []     | Easy       |
-| 16     | [Question name]](link)                                       | [SQL](Github Solution)                                       | []     | Easy       |
-| 17     | [Question name]](link)                                       | [SQL](Github Solution)                                       | []     | Easy       |
-| 18     | [Question name]](link)                                       | [SQL](Github Solution)                                       | []     | Easy       |
-| 19     | [Question name]](link)                                       | [SQL](Github Solution)                                       | []     | Easy       |
-| 20     | [Question name]](link)                                       | [SQL](Github Solution)                                       | []     | Easy       |
+| 3      | [Question name](link)                                        | [SQL](Github Solution)                                       | []     | Easy       |
+| 4      | [Question name](link)                                        | [SQL](Github Solution)                                       | []     | Easy       |
+| 5      | [Question name](link)                                        | [SQL](Github Solution)                                       | []     | Easy       |
+| 6      | [Question name](link)                                        | [SQL](Github Solution)                                       | []     | Easy       |
+| 7      | [Question name](link)                                        | [SQL](Github Solution)                                       | []     | Easy       |
+| 8      | [Question name](link)                                        | [SQL](Github Solution)                                       | []     | Easy       |
+| 9      | [Question name](link)                                        | [SQL](Github Solution)                                       | []     | Easy       |
+| 10     | [Question name](link)                                        | [SQL](Github Solution)                                       | []     | Easy       |
+| 11     | [Question name](link)                                        | [SQL](Github Solution)                                       | []     | Easy       |
+| 12     | [Question name](link)                                        | [SQL](Github Solution)                                       | []     | Easy       |
+| 13     | [Question name](link)                                        | [SQL](Github Solution)                                       | []     | Easy       |
+| 14     | [Question name](link)                                        | [SQL](Github Solution)                                       | []     | Easy       |
+| 15     | [Question name](link)                                        | [SQL](Github Solution)                                       | []     | Easy       |
+| 16     | [Question name](link)                                        | [SQL](Github Solution)                                       | []     | Easy       |
+| 17     | [Question name](link)                                        | [SQL](Github Solution)                                       | []     | Easy       |
+| 18     | [Question name](link)                                        | [SQL](Github Solution)                                       | []     | Easy       |
+| 19     | [Question name](link)                                        | [SQL](Github Solution)                                       | []     | Easy       |
+| 20     | [Question name](link)                                        | [SQL](Github Solution)                                       | []     | Easy       |
 
 
 
