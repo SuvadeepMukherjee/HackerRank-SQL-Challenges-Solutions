@@ -1,7 +1,5 @@
 # HackerRank-SQL-Challenges-Solutions
 
-![hackerRankLogo](./Assets/hackerRankLogo.png)(htthttps://www.hackerrank.com/profile/suvadeep1)
-
 [![HackerRank Logo](./Assets/hackerRankLogo.png)](https://www.hackerrank.com/profile/suvadeep1)
 
 ## Description
