@@ -17,7 +17,7 @@ This repository contains my solutions to all the SQL challenges on HackerRank, i
 | 3      | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true) | [SQL](https://github.com/SuvadeepMukherjee/HackerRank-SQL-Challenges-Solutions/blob/main/Basic%20Select/Select-All.sql) | [x]    | Easy       |
 | 4      | [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem?isFullScreen=true) | [SQL](https://github.com/SuvadeepMukherjee/HackerRank-SQL-Challenges-Solutions/blob/main/Basic%20Select/Select-By-Id.sql) | [x]    | Easy       |
 | 5      | [Japanase Cities Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true) | [SQL](https://github.com/SuvadeepMukherjee/HackerRank-SQL-Challenges-Solutions/blob/main/Basic%20Select/Japanese-Cities-Attributes.sql) | [x]    | Easy       |
-| 6      | [Question name](link)                                        | [SQL](Github Solution)                                       | []     | Easy       |
+| 6      | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true) | [SQL](Github Solution)                                       | []     | Easy       |
 | 7      | [Question name](link)                                        | [SQL](Github Solution)                                       | []     | Easy       |
 | 8      | [Question name](link)                                        | [SQL](Github Solution)                                       | []     | Easy       |
 | 9      | [Question name](link)                                        | [SQL](Github Solution)                                       | []     | Easy       |
