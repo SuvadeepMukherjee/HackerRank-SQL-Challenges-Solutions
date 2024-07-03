@@ -12,8 +12,8 @@ This repository contains my solutions to all the SQL challenges on HackerRank, i
 
 | Number | Challenges                                                   | Solutions                                                    | Status | Difficulty |
 | ------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ | ---------- |
-| 1      | [Revising the Select Query 1](https://hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true) | [SQL](https://github.com/SuvadeepMukherjee/HackerRank-SQL-Challenges-Solutions/blob/main/Basic%20Select/Revising-The-Select-Query-1.sql) | [x]    | Easy       |
-| 2      | [Question name]](link)                                       | [SQL](Github Solution)                                       | []     | Easy       |
+| 1      | [Revising the Select Query I](https://hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true) | [SQL](https://github.com/SuvadeepMukherjee/HackerRank-SQL-Challenges-Solutions/blob/main/Basic%20Select/Revising-The-Select-Query-1.sql) | [x]    | Easy       |
+| 2      | [Revising the Select Query II]](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?isFullScreen=true) | [SQL](https://github.com/SuvadeepMukherjee/HackerRank-SQL-Challenges-Solutions/blob/main/Basic%20Select/Revising-The-Select-Query-2.sql) | [x]    | Easy       |
 | 3      | [Question name]](link)                                       | [SQL](Github Solution)                                       | []     | Easy       |
 | 4      | [Question name]](link)                                       | [SQL](Github Solution)                                       | []     | Easy       |
 | 5      | [Question name]](link)                                       | [SQL](Github Solution)                                       | []     | Easy       |
