@@ -37,4 +37,4 @@ This repository contains my solutions to all the SQL challenges on HackerRank, i
 
 ## References
 
-- [Instant SQL Formatter](http://www.dpriver.com/pp/sqlformat.htm)
+- [[SQL Formatter](https://sqlformatter.org/)
