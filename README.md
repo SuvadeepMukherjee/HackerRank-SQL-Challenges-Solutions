@@ -38,8 +38,8 @@ This repository contains my solutions to all the SQL challenges on HackerRank, i
 | Number | Challenges                                                   | Solutions                                                    | Status | Difficulty |
 | ------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ | ---------- |
 | 1      | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true) | [SQL](https://github.com/SuvadeepMukherjee/HackerRank-SQL-Challenges-Solutions/blob/main/Advanced%20Select/Type-of-triangle.sql) | [x]    | Easy       |
-| 2      | [Occupations](https://www.hackerrank.com/challenges/occupations/problem?isFullScreen=true) | [SQL](https://github.com/SuvadeepMukherjee/HackerRank-SQL-Challenges-Solutions/blob/main/Advanced%20Select/The-Pads.sql) | [x]    | Medium     |
-| 3      | [The PADS](https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true) | [SQL](https://github.com/SuvadeepMukherjee/HackerRank-SQL-Challenges-Solutions/blob/main/Basic%20Select/Revising-The-Select-Query-1.sql) | []     | Medium     |
+| 2      | [Occupations](https://www.hackerrank.com/challenges/occupations/problem?isFullScreen=true) | [SQL]()                                                      | []     | Medium     |
+| 3      | [The PADS](https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true) | [SQL](https://github.com/SuvadeepMukherjee/HackerRank-SQL-Challenges-Solutions/blob/main/Advanced%20Select/The-Pads.sql) | [x]    | Medium     |
 | 4      | [New Companies](https://www.hackerrank.com/challenges/the-company/problem?isFullScreen=true) | [SQL](https://github.com/SuvadeepMukherjee/HackerRank-SQL-Challenges-Solutions/blob/main/Basic%20Select/Revising-The-Select-Query-1.sql) | []     | Medium     |
 | 5      | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem?isFullScreen=true) | [SQL](https://github.com/SuvadeepMukherjee/HackerRank-SQL-Challenges-Solutions/blob/main/Basic%20Select/Revising-The-Select-Query-1.sql) | []     | Medium     |
 
