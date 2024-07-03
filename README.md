@@ -1,6 +1,8 @@
 # HackerRank-SQL-Challenges-Solutions
 
-![hackerRankLogo](./Assets/hackerRankLogo.png)(https://www.hackerrank.com/profile/suvadeep1)
+![hackerRankLogo](./Assets/hackerRankLogo.png)(htthttps://www.hackerrank.com/profile/suvadeep1)
+
+[![HackerRank Logo](./Assets/hackerRankLogo.png)](http://sharpener.tech)
 
 ## Description
 
