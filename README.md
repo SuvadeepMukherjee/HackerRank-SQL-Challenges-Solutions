@@ -33,3 +33,8 @@ This repository contains my solutions to all the SQL challenges on HackerRank, i
 | 19     | [Question name]](link)                                       | [SQL](Github Solution)                                       | []     | Easy       |
 | 20     | [Question name]](link)                                       | [SQL](Github Solution)                                       | []     | Easy       |
 
+
+
+## References
+
+- [Instant SQL Formatter](http://www.dpriver.com/pp/sqlformat.htm)
