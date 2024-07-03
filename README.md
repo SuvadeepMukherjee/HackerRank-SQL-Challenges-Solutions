@@ -33,6 +33,16 @@ This repository contains my solutions to all the SQL challenges on HackerRank, i
 | 19     | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true) | [SQL](https://github.com/SuvadeepMukherjee/HackerRank-SQL-Challenges-Solutions/blob/main/Basic%20Select/Employee-names.sql) | [x]    | Easy       |
 | 20     | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true) | [SQL](https://github.com/SuvadeepMukherjee/HackerRank-SQL-Challenges-Solutions/blob/main/Basic%20Select/Employee-salaries.sql) | [x]    | Easy       |
 
+### Advanced Select Challenges
+
+| Number | Challenges                                                   | Solutions                                                    | Status | Difficulty |
+| ------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ | ---------- |
+| 1      | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true) | [SQL](https://github.com/SuvadeepMukherjee/HackerRank-SQL-Challenges-Solutions/blob/main/Basic%20Select/Revising-The-Select-Query-1.sql) | []     | Easy       |
+| 2      | [Occupations](https://www.hackerrank.com/challenges/occupations/problem?isFullScreen=true) | [SQL](https://github.com/SuvadeepMukherjee/HackerRank-SQL-Challenges-Solutions/blob/main/Basic%20Select/Revising-The-Select-Query-1.sql) | []     | Medium     |
+| 3      | [The PADS](https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true) | [SQL](https://github.com/SuvadeepMukherjee/HackerRank-SQL-Challenges-Solutions/blob/main/Basic%20Select/Revising-The-Select-Query-1.sql) | []     | Medium     |
+| 4      | [New Companies](https://www.hackerrank.com/challenges/the-company/problem?isFullScreen=true) | [SQL](https://github.com/SuvadeepMukherjee/HackerRank-SQL-Challenges-Solutions/blob/main/Basic%20Select/Revising-The-Select-Query-1.sql) | []     | Medium     |
+| 5      | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem?isFullScreen=true) | [SQL](https://github.com/SuvadeepMukherjee/HackerRank-SQL-Challenges-Solutions/blob/main/Basic%20Select/Revising-The-Select-Query-1.sql) | []     | Medium     |
+
 
 
 ## References
