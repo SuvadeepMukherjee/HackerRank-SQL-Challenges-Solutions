@@ -4,7 +4,7 @@
 
 ## Description
 
-This repository contains my solutions of all the SQL challenges for all easy,medium and hard challenges on HackerRank executed on MySQL environment . I was solving this challenges while preparing for my backend mock interview at [Sharpener](https://sharpener.tech)
+This repository contains my solutions to all the SQL challenges on HackerRank, including easy, medium, and hard challenges, executed in a MySQL environment. I solved these challenges while preparing for my backend mock interview att [Sharpener](https://sharpener.tech)
 
 ## Domains
 
