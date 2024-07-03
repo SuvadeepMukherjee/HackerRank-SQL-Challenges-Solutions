@@ -10,26 +10,26 @@ This repository contains my solutions to all the SQL challenges on HackerRank, i
 
 ### Basic Select Challenges
 
-| Number | Challenges | Solutions                                                    | Status | Difficulty                                                   |
-| ------ | ---------- | ------------------------------------------------------------ | ------ | ------------------------------------------------------------ |
-| 1      | []()       | [SQL]()                                                      | []     | Easy                                                         |
-| 2      | []]()      | [SQL]()                                                      | []     | Easy                                                         |
-|        |            | [SQL](https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions/blob/master/Aggregation/Revising Aggregations - The Count Function.sql) |        | [SQL](https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions/blob/master/Basic Select/Revising-the-select-Query-1.sql) |
-|        |            |                                                              |        |                                                              |
-|        |            |                                                              |        |                                                              |
-|        |            |                                                              |        |                                                              |
-|        |            |                                                              |        |                                                              |
-|        |            |                                                              |        |                                                              |
-|        |            |                                                              |        |                                                              |
-|        |            |                                                              |        |                                                              |
-|        |            |                                                              |        |                                                              |
-|        |            |                                                              |        |                                                              |
-|        |            |                                                              |        |                                                              |
-|        |            |                                                              |        |                                                              |
-|        |            |                                                              |        |                                                              |
-|        |            |                                                              |        |                                                              |
-|        |            |                                                              |        |                                                              |
-|        |            |                                                              |        |                                                              |
-|        |            |                                                              |        |                                                              |
-|        |            |                                                              |        |                                                              |
+| Number | Challenges                                                   | Solutions                                                    | Status | Difficulty |
+| ------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ | ---------- |
+| 1      | [Revising the Select Query 1](https://hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true) | [SQL](https://github.com/SuvadeepMukherjee/HackerRank-SQL-Challenges-Solutions/blob/main/Basic%20Select/Revising-The-Select-Query-1.sql) | [x]    | Easy       |
+| 2      | []]()                                                        | [SQL]()                                                      | []     | Easy       |
+|        | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) |                                                              |        |            |
+|        | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) |                                                              |        |            |
+|        |                                                              |                                                              |        |            |
+|        |                                                              |                                                              |        |            |
+|        |                                                              |                                                              |        |            |
+|        |                                                              |                                                              |        |            |
+|        |                                                              |                                                              |        |            |
+|        |                                                              |                                                              |        |            |
+|        |                                                              |                                                              |        |            |
+|        |                                                              |                                                              |        |            |
+|        |                                                              |                                                              |        |            |
+|        |                                                              |                                                              |        |            |
+|        |                                                              |                                                              |        |            |
+|        |                                                              |                                                              |        |            |
+|        |                                                              |                                                              |        |            |
+|        |                                                              |                                                              |        |            |
+|        |                                                              |                                                              |        |            |
+|        |                                                              |                                                              |        |            |
 
