@@ -30,7 +30,7 @@ This repository contains my solutions to all the SQL challenges on HackerRank, i
 | 16     | [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem?isFullScreen=true) | [SQL](https://github.com/SuvadeepMukherjee/HackerRank-SQL-Challenges-Solutions/blob/main/Basic%20Select/Weather-Observation-Station-11.sql) | [x]    | Easy       |
 | 17     | [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem?isFullScreen=true) | [SQL](https://github.com/SuvadeepMukherjee/HackerRank-SQL-Challenges-Solutions/blob/main/Basic%20Select/Weather-Observation-Station-12.sql) | [x]    | Easy       |
 | 18     | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true) | [SQL](https://github.com/SuvadeepMukherjee/HackerRank-SQL-Challenges-Solutions/blob/main/Basic%20Select/Higher-Than-75-marks.sql) | [x]    | Easy       |
-| 19     | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true) | [SQL](Github Solution)                                       | []     | Easy       |
+| 19     | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true) | [SQL](https://github.com/SuvadeepMukherjee/HackerRank-SQL-Challenges-Solutions/blob/main/Basic%20Select/Employee-names.sql) | [x]    | Easy       |
 | 20     | [Question name](link)                                        | [SQL](Github Solution)                                       | []     | Easy       |
 
 
