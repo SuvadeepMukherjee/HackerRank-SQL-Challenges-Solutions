@@ -16,7 +16,7 @@ This repository contains my solutions to all the SQL challenges on HackerRank, i
 | 2      | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?isFullScreen=true) | [SQL](https://github.com/SuvadeepMukherjee/HackerRank-SQL-Challenges-Solutions/blob/main/Basic%20Select/Revising-The-Select-Query-2.sql) | [x]    | Easy       |
 | 3      | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true) | [SQL](https://github.com/SuvadeepMukherjee/HackerRank-SQL-Challenges-Solutions/blob/main/Basic%20Select/Select-All.sql) | [x]    | Easy       |
 | 4      | [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem?isFullScreen=true) | [SQL](https://github.com/SuvadeepMukherjee/HackerRank-SQL-Challenges-Solutions/blob/main/Basic%20Select/Select-By-Id.sql) | [x]    | Easy       |
-| 5      | [Question name](link)                                        | [SQL](Github Solution)                                       | []     | Easy       |
+| 5      | [Japanase Cities Attributes](lhttps://www.hackerrank.com/domains/sql?filters%5Bsubdomains%5D%5B%5D=select&filters%5Bdifficulty%5D%5B%5D=easy&badge_type=sql) | [SQL](Github Solution)                                       | []     | Easy       |
 | 6      | [Question name](link)                                        | [SQL](Github Solution)                                       | []     | Easy       |
 | 7      | [Question name](link)                                        | [SQL](Github Solution)                                       | []     | Easy       |
 | 8      | [Question name](link)                                        | [SQL](Github Solution)                                       | []     | Easy       |
