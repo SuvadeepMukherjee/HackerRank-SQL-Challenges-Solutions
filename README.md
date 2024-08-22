@@ -1,4 +1,4 @@
-# HackerRank-SQL-Challenges-Solutions
+# HackerRank-SQL-Challenges-Solution
 
 [![HackerRank Logo](./Assets/hackerRankLogo.png)](https://www.hackerrank.com/profile/suvadeep1)
 
