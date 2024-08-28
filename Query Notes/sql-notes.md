@@ -90,7 +90,7 @@ In the select statement above we want to return all customers that are NOT  from
 
 #### Numeric Functions:
 
-#### 1. syntax and defination of mod() function 
+1. syntax and defination of mod() function 
 
 **Answer**:
 
@@ -101,4 +101,24 @@ SELECT MOD(18, 4);
 Return the remainder of 18/4
 
 Syntax: `MOD(x, y)`
+
+2. syntax and defination of count() function 
+
+**Answer**:
+
+defination: The COUNT() function returns the number of records returned by a select query.
+
+**Note:** NULL values are not counted.
+
+Syntax: `COUNT(expression)`
+
+Example : 
+
+```sql
+SELECT COUNT(ProductID) AS NumberOfProducts FROM Products; 
+```
+
+The above query returns the number of products in the "Products" table:
+
+
 
