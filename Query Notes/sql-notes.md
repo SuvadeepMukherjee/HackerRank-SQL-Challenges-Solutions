@@ -24,6 +24,18 @@ Syntax:
 SELECT column1, column2, ... FROM table_name;
 ```
 
+#### Q:Write the synatx and defination of select distinct 
+
+**Answer**:
+
+Defination:The `SELECT DISTINCT` statement is used to return only distinct  (different) values.
+
+Syntax:
+
+```sql
+SELECT DISTINCT column1, column2, ... FROM table_name;
+```
+
 ### Q3:Write the defination and syntax of the WHERE clause ?  
 
 **Answer**:
@@ -71,3 +83,22 @@ SELECT * FROM Customers WHERE NOT Country = 'Spain';
 ```
 
 In the select statement above we want to return all customers that are NOT  from Spain
+
+#### 
+
+------
+
+#### Numeric Functions:
+
+#### 1. syntax and defination of mod() function 
+
+**Answer**:
+
+```sql
+SELECT MOD(18, 4); 
+```
+
+Return the remainder of 18/4
+
+Syntax: `MOD(x, y)`
+
