@@ -43,6 +43,25 @@ This repository contains my solutions to the SQL challenges on HackerRank, inclu
 | 4      | [New Companies](https://www.hackerrank.com/challenges/the-company/problem?isFullScreen=true) | [SQL](https://github.com/SuvadeepMukherjee/HackerRank-SQL-Challenges-Solutions/blob/main/Basic%20Select/Revising-The-Select-Query-1.sql) | []     | Medium     |
 | 5      | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem?isFullScreen=true) | [SQL](https://github.com/SuvadeepMukherjee/HackerRank-SQL-Challenges-Solutions/blob/main/Basic%20Select/Revising-The-Select-Query-1.sql) | []     | Medium     |
 
+### Aggregate Functions 
+
+| Number | Challenges                                                   | Solutions | Status | Difficulty |
+| ------ | ------------------------------------------------------------ | --------- | ------ | ---------- |
+| 1      | [Revising Aggregated -The COUNT Function ](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true) |           |        | Easy       |
+| 2      |                                                              |           |        | Easy       |
+| 3      |                                                              |           |        | Easy       |
+| 4      |                                                              |           |        | Easy       |
+| 5      |                                                              |           |        | Easy       |
+| 6      |                                                              |           |        | Easy       |
+| 7      |                                                              |           |        | Easy       |
+| 8      |                                                              |           |        | Easy       |
+| 9      |                                                              |           |        | Easy       |
+| 10     |                                                              |           |        | Easy       |
+| 11     |                                                              |           |        | Easy       |
+| 12     |                                                              |           |        | Easy       |
+| 13     |                                                              |           |        | Easy       |
+| 14     |                                                              |           |        | Easy       |
+
 
 
 ## References
