@@ -122,3 +122,20 @@ The above query returns the number of products in the "Products" table:
 
 
 
+
+
+------
+
+#### String Functions
+
+1. synatax and defination of LENGTH()
+
+**Solution**:
+
+Definition: The LENGTH() function returns the length of a string
+
+Example: `SELECT LENGTH("SQL Tutorial") AS LengthOfString;`
+
+The above sql query returns the length of the string "SQL Tutorial" 
+
+Synatax: `LENGTH(*string*)`
