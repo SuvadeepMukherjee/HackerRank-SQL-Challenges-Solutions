@@ -22,3 +22,24 @@ where LAT_N is the northern latitude and LONG_W is the western longitude. For ex
 SELECT (SELECT COUNT(city) from STATION)-(SELECT  COUNT(DISTINCT city) FROM STATION) as Difference ;
 ```
 
+#### Q3: [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem?isFullScreen=true)
+
+**Solution**:
+
+The sql query is given below : 
+
+```sql
+select city,length(city) as length from station order by length asc , city asc limit 1;
+select city , length(city) as length from station order by length desc , city asc limit 1;
+```
+
+#### Q4:[Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-6/problem?isFullScreen=true)
+
+**Solution**:
+
+The sql query is given below:
+
+```sql
+select distinct city from station where city like "a%" or city like "e%" or city like "i%" or city like "o%" or city like "u%";
+```
+
