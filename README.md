@@ -45,22 +45,22 @@ This repository contains my solutions to the SQL challenges on HackerRank, inclu
 
 ### Aggregate Functions 
 
-| Number | Challenges                                                   | Solutions | Status | Difficulty |
-| ------ | ------------------------------------------------------------ | --------- | ------ | ---------- |
-| 1      | [Revising Aggregated -The COUNT Function ](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true) |           |        | Easy       |
-| 2      |                                                              |           |        | Easy       |
-| 3      |                                                              |           |        | Easy       |
-| 4      |                                                              |           |        | Easy       |
-| 5      |                                                              |           |        | Easy       |
-| 6      |                                                              |           |        | Easy       |
-| 7      |                                                              |           |        | Easy       |
-| 8      |                                                              |           |        | Easy       |
-| 9      |                                                              |           |        | Easy       |
-| 10     |                                                              |           |        | Easy       |
-| 11     |                                                              |           |        | Easy       |
-| 12     |                                                              |           |        | Easy       |
-| 13     |                                                              |           |        | Easy       |
-| 14     |                                                              |           |        | Easy       |
+| Number | Challenges                                                   | Solutions                                                    | Status | Difficulty |
+| ------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ | ---------- |
+| 1      | [Revising Aggregated -The COUNT Function ](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true) | [SQL](https://github.com/SuvadeepMukherjee/HackerRank-SQL-Challenges-Solutions/blob/main/Aggregate%20Functions/revising-agrregates-The-count-function.sql) | [x]    | Easy       |
+| 2      |                                                              |                                                              |        | Easy       |
+| 3      |                                                              |                                                              |        | Easy       |
+| 4      |                                                              |                                                              |        | Easy       |
+| 5      |                                                              |                                                              |        | Easy       |
+| 6      |                                                              |                                                              |        | Easy       |
+| 7      |                                                              |                                                              |        | Easy       |
+| 8      |                                                              |                                                              |        | Easy       |
+| 9      |                                                              |                                                              |        | Easy       |
+| 10     |                                                              |                                                              |        | Easy       |
+| 11     |                                                              |                                                              |        | Easy       |
+| 12     |                                                              |                                                              |        | Easy       |
+| 13     |                                                              |                                                              |        | Easy       |
+| 14     |                                                              |                                                              |        | Easy       |
 
 
 
