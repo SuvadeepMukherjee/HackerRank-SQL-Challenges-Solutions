@@ -43,3 +43,11 @@ The sql query is given below:
 select distinct city from station where city like "a%" or city like "e%" or city like "i%" or city like "o%" or city like "u%";
 ```
 
+#### Q5:[Higher than 75 marks](https://www.hackerrank.com/challenges/more-than-75-marks/submissions/code/389769240)
+
+**Solution**:
+
+```sql
+SELECT NAME from STUDENTS where MARKS>75 order by RIGHT(Name,3),id;
+```
+

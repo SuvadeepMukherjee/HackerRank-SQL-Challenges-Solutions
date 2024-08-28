@@ -86,6 +86,40 @@ In the select statement above we want to return all customers that are NOT  from
 
 #### 
 
+
+
+#### LIKE Operator : 
+
+**Answer**:
+
+The `LIKE` operator is used in a ` WHERE` clause to search for a specified pattern in a column.
+
+There are two wildcards often used in conjunction with the ` LIKE` operator:
+
+- The percent sign (%) represents zero, one, or multiple characters
+- The underscore sign (_) represents one, single character
+
+The percent sign and the underscore can also be used in combinations!
+
+Example: 
+
+```sql
+SELECT * FROM Customers WHERE CustomerName LIKE 'a%'; 
+
+```
+
+The above SQL statement selects all customers with a CustomerName starting with  "a":
+
+Syntax:
+
+```sql
+SELECT column1, column2, ...
+ FROM table_name
+ WHERE columnN LIKE pattern; 
+```
+
+
+
 ------
 
 #### Numeric Functions:
@@ -139,3 +173,22 @@ Example: `SELECT LENGTH("SQL Tutorial") AS LengthOfString;`
 The above sql query returns the length of the string "SQL Tutorial" 
 
 Synatax: `LENGTH(*string*)`
+
+
+
+2. synatx and defination of right()
+
+**Solution**:
+
+The RIGHT() function extracts a number of characters from a string (starting  from right).
+
+Syntax: `RIGHT(string, number_of_chars)`
+
+Example : 
+
+```sql
+SELECT RIGHT(CustomerName, 5) AS ExtractString
+FROM Customers; 
+```
+
+The above sql code extracts 5 characters from the text in the "CustomerName" column (starting from right)
