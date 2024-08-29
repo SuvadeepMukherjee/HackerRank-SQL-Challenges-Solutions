@@ -70,7 +70,7 @@ This repository contains my solutions to the SQL challenges on HackerRank, inclu
 | ------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ | ---------- |
 | 1      | [Population Census](https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=true) | [SQL](https://github.com/SuvadeepMukherjee/HackerRank-SQL-Challenges-Solutions/blob/main/Basic%20Join/population-census.sql) | [x]    | Easy       |
 | 2      | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem?isFullScreen=true) | [SQL](https://github.com/SuvadeepMukherjee/HackerRank-SQL-Challenges-Solutions/blob/main/Basic%20Join/african-cities.sql) | [x]    | Easy       |
-| 3      | [Average Population of Each Continet]()                      |                                                              |        |            |
+| 3      | [Average Population of Each Continet](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem?isFullScreen=true) | [SQL](https://github.com/SuvadeepMukherjee/HackerRank-SQL-Challenges-Solutions/blob/main/Basic%20Join/african-cities.sql) | [x]    | Easy       |
 
 
 
