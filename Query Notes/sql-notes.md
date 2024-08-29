@@ -205,6 +205,30 @@ Parameter Values
 | number    | Required. The number to be rounded                           |
 | decimals  | Optional. The number of decimal places to round *number* to. If omitted,     it returns the integer (no decimals) |
 
+##### 5.syntax and defination of min() and max()
+
+**Answer**:
+
+The `MIN()` function returns the smallest value of the selected column.
+
+The `MAX()` function returns the largest value of the selected column.
+
+min() syntax :
+
+```sql
+SELECT MIN(column_name)
+ FROM table_name
+ WHERE condition;  
+```
+
+max() syntax:
+
+```sql
+SELECT MAX(column_name)
+ FROM table_name
+ WHERE condition; 
+```
+
 
 
 ------
