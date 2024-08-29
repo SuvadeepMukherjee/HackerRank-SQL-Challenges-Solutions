@@ -66,11 +66,11 @@ This repository contains my solutions to the SQL challenges on HackerRank, inclu
 
 ### Basic Join
 
-| Number | Challenges                              | Solution | Status | Difficulty |
-| ------ | --------------------------------------- | -------- | ------ | ---------- |
-| 1      | [Population Census]()                   |          |        |            |
-| 2      | [African Cities]()                      |          |        |            |
-| 3      | [Average Population of Each Continet]() |          |        |            |
+| Number | Challenges                                                   | Solution                                                     | Status | Difficulty |
+| ------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ | ---------- |
+| 1      | [Population Census](https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=true) | [SQL](https://github.com/SuvadeepMukherjee/HackerRank-SQL-Challenges-Solutions/blob/main/Basic%20Join/population-census.sql) | [x]    | Easy       |
+| 2      | [African Cities]()                                           |                                                              |        |            |
+| 3      | [Average Population of Each Continet]()                      |                                                              |        |            |
 
 
 
