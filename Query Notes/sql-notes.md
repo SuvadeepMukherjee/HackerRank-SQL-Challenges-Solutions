@@ -190,7 +190,7 @@ SELECT * FROM Products
 WHERE Price > (SELECT AVG(Price) FROM Products);  
 ```
 
-##### 4.syntax and defination of round()
+##### 5.syntax and defination of round()
 
 **Answer**:
 
@@ -205,7 +205,7 @@ Parameter Values
 | number    | Required. The number to be rounded                           |
 | decimals  | Optional. The number of decimal places to round *number* to. If omitted,     it returns the integer (no decimals) |
 
-##### 5.syntax and defination of min() and max()
+##### 6.syntax and defination of min() and max()
 
 **Answer**:
 
@@ -229,7 +229,13 @@ SELECT MAX(column_name)
  WHERE condition; 
 ```
 
+##### 7.syntax and defination of ceil()
 
+**Answer**:
+
+defination:The CEIL() function returns the smallest integer value that is bigger than or  equal to a number.
+
+Syntax: `CEIL(number)`
 
 ------
 
@@ -263,6 +269,24 @@ FROM Customers;
 ```
 
 The above sql code extracts 5 characters from the text in the "CustomerName" column (starting from right)
+
+##### 3.syntax and defination of replace()
+
+**Solution**:
+
+defination: The REPLACE() function replaces all occurrences of a substring within a  string, with a new substring.
+
+Syntax:`REPLACE(string, from_string, new_string)`
+
+Parameter Values
+
+| Parameter     | Description                             |
+| ------------- | --------------------------------------- |
+| *string*      | Required. The original string           |
+| *from_string* | Required. The substring to be replaced  |
+| *new_string*  | Required. The new replacement substring |
+
+
 
 ------
 
