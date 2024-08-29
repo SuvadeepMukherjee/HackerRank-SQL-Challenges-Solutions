@@ -162,15 +162,15 @@ The above query returns the number of products in the "Products" table:
 
 ##### 3.syntax and defination of sum()
 
-defination:The `COUNT()` function returns the number of  rows that matches a specified criterion.
+defination:The `SUM()` function returns the total sum of a numeric column.
 
-Syntax: `SELECT COUNT(column_name)  FROM table_name  WHERE condition;` 
+Syntax: SELECT SUM(column_name) FROM table_name WHERE *condition*; 
 
 Example:
 
 ```sql
-SELECT COUNT(*)
-FROM Products;
+SELECT SUM(Quantity)
+FROM OrderDetails; 
 ```
 
 
@@ -226,10 +226,10 @@ Synatax:
 
 ```sql
 CASE
-  WHEN *condition1* THEN *result1*
-    WHEN *condition2* THEN *result2*
-  WHEN   *conditionN* THEN *resultN*
-  ELSE *result*
+  WHEN condition1 THEN result1
+    WHEN condition2 THEN result2
+  WHEN   conditionN THEN resultN
+  ELSE result
 END as statements;
 ```
 
