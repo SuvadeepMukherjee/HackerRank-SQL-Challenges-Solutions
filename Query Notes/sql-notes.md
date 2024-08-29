@@ -162,6 +162,8 @@ The above query returns the number of products in the "Products" table:
 
 ##### 3.syntax and defination of sum()
 
+**Answer**:
+
 defination:The `SUM()` function returns the total sum of a numeric column.
 
 Syntax: SELECT SUM(column_name) FROM table_name WHERE *condition*; 
@@ -171,6 +173,21 @@ Example:
 ```sql
 SELECT SUM(Quantity)
 FROM OrderDetails; 
+```
+
+##### 4.syntax and defination of avg()
+
+**Answer**:
+
+defination:The AVG() function returns the average value of an expression.
+
+Syntax: `AVG(expression)`
+
+Example:
+
+```sql
+SELECT * FROM Products
+WHERE Price > (SELECT AVG(Price) FROM Products);  
 ```
 
 
