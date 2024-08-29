@@ -60,7 +60,17 @@ This repository contains my solutions to the SQL challenges on HackerRank, inclu
 | 11     | [Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem?isFullScreen=true) | [SQL](https://github.com/SuvadeepMukherjee/HackerRank-SQL-Challenges-Solutions/blob/main/Aggregate%20Functions/weather-observation-station-14.sql) | [x]    | Easy       |
 | 12     | [Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem) | [SQL](https://github.com/SuvadeepMukherjee/HackerRank-SQL-Challenges-Solutions/blob/main/Aggregate%20Functions/weather-observation-station-15.sql) | [x]    | Easy       |
 | 13     | [Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem?isFullScreen=true) | [SQL](https://github.com/SuvadeepMukherjee/HackerRank-SQL-Challenges-Solutions/blob/main/Aggregate%20Functions/weather-observation-station-16.sql) | [x]    | Easy       |
-| 14     | [Weather Observation Station 17]()                           | [SQL]()                                                      | [x]    | Easy       |
+| 14     | [Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17/problem?isFullScreen=true) | [SQL](https://github.com/SuvadeepMukherjee/HackerRank-SQL-Challenges-Solutions/blob/main/Aggregate%20Functions/weather-observation-station-17.sql) | [x]    | Easy       |
+
+
+
+### Basic Join
+
+| Number | Challenges                              | Solution | Status | Difficulty |
+| ------ | --------------------------------------- | -------- | ------ | ---------- |
+| 1      | [Population Census]()                   |          |        |            |
+| 2      | [African Cities]()                      |          |        |            |
+| 3      | [Average Population of Each Continet]() |          |        |            |
 
 
 
