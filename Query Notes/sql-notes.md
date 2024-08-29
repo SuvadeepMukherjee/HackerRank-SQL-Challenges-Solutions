@@ -190,6 +190,21 @@ SELECT * FROM Products
 WHERE Price > (SELECT AVG(Price) FROM Products);  
 ```
 
+##### 4.syntax and defination of round()
+
+**Answer**:
+
+defination:The ROUND() function rounds a number to a specified number of decimal places.
+
+Syntax:`ROUND(number, decimals)`
+
+Parameter Values
+
+| Parameter | Description                                                  |
+| --------- | ------------------------------------------------------------ |
+| number    | Required. The number to be rounded                           |
+| decimals  | Optional. The number of decimal places to round *number* to. If omitted,     it returns the integer (no decimals) |
+
 
 
 ------
