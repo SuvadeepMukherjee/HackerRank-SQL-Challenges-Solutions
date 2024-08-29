@@ -1,6 +1,6 @@
-## SQL Notes
+## SQL Notes For Writing Queries
 
-#### Q1:Write a generalized SQL QUERY 
+##### Q:Write a generalized SQL QUERY 
 
 **Answer**:
 
@@ -12,7 +12,9 @@ group by clause
 
 limit offset
 
-#### Q2:Write the syntax and defination of select statement 
+------
+
+##### Q:Write the syntax and defination of select statement 
 
 **Answer**:
 
@@ -24,7 +26,9 @@ Syntax:
 SELECT column1, column2, ... FROM table_name;
 ```
 
-#### Q:Write the synatx and defination of select distinct 
+------
+
+##### Q:Write the synatx and defination of select distinct 
 
 **Answer**:
 
@@ -36,7 +40,9 @@ Syntax:
 SELECT DISTINCT column1, column2, ... FROM table_name;
 ```
 
-### Q3:Write the defination and syntax of the WHERE clause ?  
+------
+
+##### Q:Write the defination and syntax of the WHERE clause ?  
 
 **Answer**:
 
@@ -48,7 +54,9 @@ Syntax:
 SELECT column1, column2, ... FROM table_name WHERE condition;
 ```
 
-#### Q4:Write the defination and of AND ,OR,NOT operator ? 
+------
+
+##### Q:Write the defination and of AND ,OR,NOT operator ? 
 
 **Answer**:
 
@@ -84,11 +92,9 @@ SELECT * FROM Customers WHERE NOT Country = 'Spain';
 
 In the select statement above we want to return all customers that are NOT  from Spain
 
-#### 
+------
 
-
-
-#### LIKE Operator : 
+##### syntax and defination of LIKE Operator : 
 
 **Answer**:
 
@@ -124,7 +130,7 @@ SELECT column1, column2, ...
 
 #### Numeric Functions:
 
-1. syntax and defination of mod() function 
+##### 1.syntax and defination of mod() function 
 
 **Answer**:
 
@@ -136,7 +142,7 @@ Return the remainder of 18/4
 
 Syntax: `MOD(x, y)`
 
-2. syntax and defination of count() function 
+##### 2.syntax and defination of count() function 
 
 **Answer**:
 
@@ -154,7 +160,18 @@ SELECT COUNT(ProductID) AS NumberOfProducts FROM Products;
 
 The above query returns the number of products in the "Products" table:
 
+##### 3.syntax and defination of sum()
 
+defination:The `COUNT()` function returns the number of  rows that matches a specified criterion.
+
+Syntax: `SELECT COUNT(column_name)  FROM table_name  WHERE condition;` 
+
+Example:
+
+```sql
+SELECT COUNT(*)
+FROM Products;
+```
 
 
 
@@ -162,7 +179,7 @@ The above query returns the number of products in the "Products" table:
 
 #### String Functions
 
-1. synatax and defination of LENGTH()
+##### 1.synatax and defination of LENGTH()
 
 **Solution**:
 
@@ -172,11 +189,9 @@ Example: `SELECT LENGTH("SQL Tutorial") AS LengthOfString;`
 
 The above sql query returns the length of the string "SQL Tutorial" 
 
-Synatax: `LENGTH(*string*)`
+Synatax: `LENGTH(string)`
 
-
-
-2. synatx and defination of right()
+##### 2.syntax and defination of right()
 
 **Solution**:
 
@@ -193,15 +208,11 @@ FROM Customers;
 
 The above sql code extracts 5 characters from the text in the "CustomerName" column (starting from right)
 
-
-
-
-
 ------
 
 #### Advanced Functions
 
-1. CASE Function 
+##### 1.CASE Function 
 
 **Solution**:
 
@@ -210,8 +221,6 @@ Defination: The CASE statement goes through conditions and return a value when t
 If no conditions are true, it will return the value in the ELSE clause. 
 
 If there is no ELSE part and no conditions are true, it returns NULL.
-
-
 
 Synatax:
 
