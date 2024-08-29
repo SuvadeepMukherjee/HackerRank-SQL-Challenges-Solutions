@@ -47,8 +47,8 @@ This repository contains my solutions to the SQL challenges on HackerRank, inclu
 
 | Number | Challenges                                                   | Solutions                                                    | Status | Difficulty |
 | ------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ | ---------- |
-| 1      | [Revising Aggregated -The COUNT Function ](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true) | [SQL](https://github.com/SuvadeepMukherjee/HackerRank-SQL-Challenges-Solutions/blob/main/Aggregate%20Functions/revising-agrregates-The-count-function.sql) | [x]    | Easy       |
-| 2      |                                                              |                                                              |        | Easy       |
+| 1      | [Revising Aggregations -The COUNT Function ](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true) | [SQL](https://github.com/SuvadeepMukherjee/HackerRank-SQL-Challenges-Solutions/blob/main/Aggregate%20Functions/revising-agrregates-The-count-function.sql) | [x]    | Easy       |
+| 2      | [Revising Aggregations - The SUM Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true) |                                                              | [x]    | Easy       |
 | 3      |                                                              |                                                              |        | Easy       |
 | 4      |                                                              |                                                              |        | Easy       |
 | 5      |                                                              |                                                              |        | Easy       |
