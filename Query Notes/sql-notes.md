@@ -28,7 +28,7 @@ SELECT column1, column2, ... FROM table_name;
 
 ------
 
-##### Q:Write the synatx and defination of select distinct 
+#### Q3:Write the synatx and defination of select distinct 
 
 **Answer**:
 
@@ -42,7 +42,7 @@ SELECT DISTINCT column1, column2, ... FROM table_name;
 
 ------
 
-#### Q3:Write the defination and syntax of the WHERE clause ?  
+#### Q4:Write the defination and syntax of the WHERE clause ?  
 
 **Answer**:
 
@@ -56,7 +56,7 @@ SELECT column1, column2, ... FROM table_name WHERE condition;
 
 ------
 
-#### Q4:Write the defination and of AND ,OR,NOT operator ? 
+#### Q5:Write the defination and of AND ,OR,NOT operator ? 
 
 **Answer**:
 
@@ -94,7 +94,7 @@ In the select statement above we want to return all customers that are NOT  from
 
 ------
 
-#### Q5:Syntax and defination of LIKE Operator : 
+#### Q6:Syntax and defination of LIKE Operator : 
 
 **Answer**:
 
