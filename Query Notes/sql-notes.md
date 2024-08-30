@@ -1,6 +1,6 @@
 ## SQL Notes For Writing Queries
 
-##### Q:Write a generalized SQL QUERY 
+#### Q1:Write a generalized SQL QUERY 
 
 **Answer**:
 
@@ -14,7 +14,7 @@ limit offset
 
 ------
 
-##### Q:Write the syntax and defination of select statement 
+#### Q2:Write the syntax and defination of select statement 
 
 **Answer**:
 
@@ -42,7 +42,7 @@ SELECT DISTINCT column1, column2, ... FROM table_name;
 
 ------
 
-##### Q:Write the defination and syntax of the WHERE clause ?  
+#### Q3:Write the defination and syntax of the WHERE clause ?  
 
 **Answer**:
 
@@ -56,7 +56,7 @@ SELECT column1, column2, ... FROM table_name WHERE condition;
 
 ------
 
-##### Q:Write the defination and of AND ,OR,NOT operator ? 
+#### Q4:Write the defination and of AND ,OR,NOT operator ? 
 
 **Answer**:
 
@@ -94,7 +94,7 @@ In the select statement above we want to return all customers that are NOT  from
 
 ------
 
-##### syntax and defination of LIKE Operator : 
+#### Q5:Syntax and defination of LIKE Operator : 
 
 **Answer**:
 
@@ -128,9 +128,9 @@ SELECT column1, column2, ...
 
 ------
 
-#### Numeric Functions:
+## Numeric Functions:
 
-##### 1.syntax and defination of mod() function 
+#### 1.syntax and defination of mod() function 
 
 **Answer**:
 
@@ -142,7 +142,7 @@ Return the remainder of 18/4
 
 Syntax: `MOD(x, y)`
 
-##### 2.syntax and defination of count() function 
+#### 2.syntax and defination of count() function 
 
 **Answer**:
 
@@ -175,7 +175,7 @@ SELECT SUM(Quantity)
 FROM OrderDetails; 
 ```
 
-##### 4.syntax and defination of avg()
+#### 4.syntax and defination of avg()
 
 **Answer**:
 
@@ -190,7 +190,7 @@ SELECT * FROM Products
 WHERE Price > (SELECT AVG(Price) FROM Products);  
 ```
 
-##### 5.syntax and defination of round()
+#### 5.syntax and defination of round()
 
 **Answer**:
 
@@ -205,7 +205,7 @@ Parameter Values
 | number    | Required. The number to be rounded                           |
 | decimals  | Optional. The number of decimal places to round *number* to. If omitted,     it returns the integer (no decimals) |
 
-##### 6.syntax and defination of min() and max()
+#### 6.syntax and defination of min() and max()
 
 **Answer**:
 
@@ -229,7 +229,7 @@ SELECT MAX(column_name)
  WHERE condition; 
 ```
 
-##### 7.syntax and defination of ceil()
+#### 7.syntax and defination of ceil()
 
 **Answer**:
 
@@ -239,9 +239,9 @@ Syntax: `CEIL(number)`
 
 ------
 
-#### String Functions
+## String Functions
 
-##### 1.synatax and defination of LENGTH()
+#### 1.syntax and defination of LENGTH()
 
 **Solution**:
 
@@ -253,7 +253,7 @@ The above sql query returns the length of the string "SQL Tutorial"
 
 Synatax: `LENGTH(string)`
 
-##### 2.syntax and defination of right()
+#### 2.syntax and defination of right()
 
 **Solution**:
 
@@ -270,7 +270,7 @@ FROM Customers;
 
 The above sql code extracts 5 characters from the text in the "CustomerName" column (starting from right)
 
-##### 3.syntax and defination of replace()
+#### 3.syntax and defination of replace()
 
 **Solution**:
 
